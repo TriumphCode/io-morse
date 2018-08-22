@@ -47,6 +47,7 @@
 *.su
 *.idb
 *.pdb
+*.cfg
 
 # Kernel Module Compile Results
 *.mod*
@@ -57,3 +58,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /Debug
+/unity_tests

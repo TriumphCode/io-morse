@@ -11,6 +11,7 @@ void Morse_Init(void)
 {
 	Morse_Led_Init();
 	Morse_Button_Init();
+	Morse_Uart_Init();
 }
 
 
