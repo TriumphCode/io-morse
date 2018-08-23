@@ -49,6 +49,7 @@ static const char* MORSE_TO_CHAR[128] = {
 const char* char_to_morse(char);
 const char* morse_to_char(const char*);
 int morse_to_index (const char*);
-
+const char* morse_to_string (const char* str);
+const char* string_to_morse (const char* str);
 
 #endif /* MORSE_IO_MORSE_IO_H_ */
