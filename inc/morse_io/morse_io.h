@@ -5,8 +5,8 @@
  *      Author: lukaszsx
  */
 
-#ifndef MORSE_IO_MORSE_H_
-#define MORSE_IO_MORSE_H_
+#ifndef MORSE_IO_MORSE_IO_H_
+#define MORSE_IO_MORSE_IO_H_
 
 static const char* CHAR_TO_MORSE[128] = {
         NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL,
@@ -51,4 +51,4 @@ const char* morse_to_char(const char*);
 int morse_to_index (const char*);
 
 
-#endif /* MORSE_IO_MORSE_H_ */
+#endif /* MORSE_IO_MORSE_IO_H_ */
