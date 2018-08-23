@@ -40,3 +40,13 @@ const char* morse_to_char (const char* str)
 {
         return MORSE_TO_CHAR[morse_to_index(str)];
 }
+
+const char* morse_to_string (const char* str)
+{
+        return 0;
+}
+
+const char* string_to_morse (const char* str)
+{
+        return 0;
+}
