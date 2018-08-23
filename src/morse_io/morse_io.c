@@ -1,6 +1,6 @@
 #include <ctype.h>
-#include "morse_io/morse_io.h"
 #include <stdlib.h>
+#include "morse_io/morse_io.h"
 
 
 /*
