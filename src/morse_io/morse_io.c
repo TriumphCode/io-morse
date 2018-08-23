@@ -1,7 +1,7 @@
 #include <ctype.h>
+#include "morse_io/morse_io.h"
 #include <stdlib.h>
 
-#include "morse_io/morse.h"
 
 /*
  * Function morse_to_index by cypherpunks on Reddit.
