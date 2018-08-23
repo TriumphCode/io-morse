@@ -26,6 +26,7 @@
 								<option id="gnu.cpp.compiler.mingw.exe.debug.option.debugging.level.652404870" name="Debug Level" superClass="gnu.cpp.compiler.mingw.exe.debug.option.debugging.level" useByScannerDiscovery="false" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.include.paths.1436793176" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/unity_tests/googletestlib}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\lukaszsx\Documents\workspace\io-morse\src\morse_io&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.777362805" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -53,6 +54,7 @@
 							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.485036138" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.773272369">
 								<option id="gnu.cpp.compiler.option.include.paths.402057673" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/unity_tests/googletestlib}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\lukaszsx\Documents\workspace\io-morse\src\morse_io&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.930610779" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
