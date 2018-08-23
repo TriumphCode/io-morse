@@ -1,6 +1,6 @@
 #include <ctype.h>
-#include "morse_io/morse_io.h"
 #include <stdlib.h>
+#include "morse_io/morse_io.h"
 
 
 /*
@@ -39,4 +39,17 @@ const char* char_to_morse (char c)
 const char* morse_to_char (const char* str)
 {
         return MORSE_TO_CHAR[morse_to_index(str)];
+}
+
+const char* morse_to_string (const char* str)
+{
+        return 0;
+}
+
+const char* string_to_morse (const char* str)
+{
+        if (islower(c))
+                c += ('A' - 'a');
+
+        return 0;
 }
