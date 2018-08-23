@@ -48,8 +48,5 @@ const char* morse_to_string (const char* str)
 
 const char* string_to_morse (const char* str)
 {
-        if (islower(c))
-                c += ('A' - 'a');
-
         return 0;
 }
