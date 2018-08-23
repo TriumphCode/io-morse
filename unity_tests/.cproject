@@ -27,6 +27,7 @@
 								<option id="gnu.cpp.compiler.option.include.paths.1436793176" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/unity_tests/googletestlib}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Users\lukaszsx\Documents\workspace\io-morse\src\morse_io&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/helloStm32/inc}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.777362805" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -55,6 +56,7 @@
 								<option id="gnu.cpp.compiler.option.include.paths.402057673" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/unity_tests/googletestlib}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Users\lukaszsx\Documents\workspace\io-morse\src\morse_io&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/helloStm32/inc}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.930610779" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
